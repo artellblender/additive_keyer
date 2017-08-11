@@ -11,6 +11,7 @@ Supports one additive strip for now, armatures only. Always make sure Auto-key i
 
 Pay the price you think it's worth, starting from $0!
 https://gumroad.com/l/auto-rig-pro
+https://artell.itch.io/additive-keyer
 
 Video tutorial here:
 https://youtu.be/QLwiaE7jQFE
