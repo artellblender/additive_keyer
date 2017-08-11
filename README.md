@@ -9,7 +9,7 @@ It solves the double transformation issue when keying transforms the standard wa
 Supports one additive strip for now, armatures only. Always make sure Auto-key is disabled when setting up an additive layer, it would create bad transforms keys.
 
 
-Pay the price you think it's worth, starting from $0!
+Pay the price you think it's worth to support, starting from $0!
 <a href="https://gumroad.com/l/auto-rig-pro">Gumroad</a>
 <a href ="https://artell.itch.io/additive-keyer"> Itch</a>
 
