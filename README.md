@@ -10,14 +10,13 @@ Supports one additive strip for now, armatures only. Always make sure Auto-key i
 
 
 Pay the price you think it's worth, starting from $0!
-https://gumroad.com/l/auto-rig-pro
-https://artell.itch.io/additive-keyer
+<a href="https://gumroad.com/l/auto-rig-pro">Gumroad</a>
+<a href ="https://artell.itch.io/additive-keyer"> Itch</a>
 
-Video tutorial here:
-https://youtu.be/QLwiaE7jQFE
-
+<a href="https://youtu.be/QLwiaE7jQFE">Video tutorial here</a>.
 
 
-For motion capture retargetting, check the Auto-Rig Pro addon:
-https://blendermarket.com/products/auto-rig-pro?ref=46
+
+For motion capture retargetting, check the <a href="https://blendermarket.com/products/auto-rig-pro?ref=46">Auto-Rig Pro addon</a>.
+
 
