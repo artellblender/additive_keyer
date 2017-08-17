@@ -10,7 +10,7 @@ Supports one additive strip for now, armatures only. Always make sure Auto-key i
 
 
 Pay the price you think it's worth to support, starting from $0!
-<a href="https://gumroad.com/l/auto-rig-pro">Gumroad</a>
+<a href="https://gumroad.com/l/zCJEs">Gumroad</a>
 <a href ="https://artell.itch.io/additive-keyer"> Itch</a>
 
 <a href="https://youtu.be/QLwiaE7jQFE">Video tutorial here</a>.
